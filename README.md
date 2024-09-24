@@ -1,4 +1,3 @@
-# RISK ASSESSMENT FRAMEWORK
 #  Cybersecurity Risk Assessment Framework for Small E-commerce Businesses (SMEs) in Nigeria
 
 ## Objective
