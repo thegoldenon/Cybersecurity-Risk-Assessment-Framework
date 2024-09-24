@@ -2,31 +2,39 @@
 #  Cybersecurity Risk Assessment Framework for Small E-commerce Businesses (SMEs) in Nigeria
 
 ## Objective
-[Brief Objective - Remove this afterwards]
+This project aims to design a cybersecurity framework for Nigerian SMEs in e-commerce, focusing on protecting customer data, ensuring payment security, and complying with regulations like NDPR, PCI-DSS, and GDPR.
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+It addresses challenges such as limited resources, lack of cybersecurity expertise, and rising threats like phishing and data breaches. The phased approach will:
 
-### Skills Learned
-[Bullet Points - Remove this afterwards]
+Strengthen data security
+Secure websites and payment gateways
+Implement continuous monitoring and compliance
+Enhance resilience against evolving cyber threats
+This framework empowers small e-commerce businesses to operate securely while maintaining customer trust and regulatory compliance.
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+### Skills Learned from this Project
+Risk Assessment & Management: Identifying and prioritizing cybersecurity risks for small e-commerce businesses.
+Cybersecurity Planning: Designing security architecture with encryption, firewalls, WAF, 2FA, and tokenization.
+Regulatory Compliance: Implementing NDPR, PCI-DSS, and GDPR requirements for data protection.
+Incident Response: Creating and testing response plans for breaches and phishing, including post-incident reviews.
+Continuous Monitoring: Utilizing SIEM tools and vulnerability scanning for ongoing threat detection and improvement.
+Team Collaboration: Coordinating IT, security, and vendors for effective security implementation and task management.
 
-### Tools Used
-[Bullet Points - Remove this afterwards]
+## Steps followed in this project
+Phase 1: Scope Definition
+Identify the business environment, focusing on Nigerian e-commerce SMEs, and tailor regulatory frameworks (NDPR, PCI-DSS, GDPR) to their needs.
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+Phase 2: Inventory Critical Assets
+List key digital assets (customer data, payment gateways, APIs), prioritizing them based on business value and risk.
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+Phase 3: Risk Evaluation
+Assess risks like phishing, malware, and API vulnerabilities, ranking them by likelihood and impact.
 
-Every screenshot should have some text explaining what the screenshot is about.
+Phase 4: Risk Mitigation
+Create a plan with security controls like encryption, WAF, access controls, and employee training to reduce vulnerabilities.
 
-Example below.
+Phase 5: Implementation
+Assign tasks, set timelines, and track progress through weekly check-ins to ensure smooth deployment.
 
-*Ref 1: Network Diagram*
+Phase 6: Monitoring & Improvement
+Use SIEM tools for continuous monitoring, conduct drills for incident response, and perform regular audits to maintain compliance and improve security.
